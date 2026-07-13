@@ -12,5 +12,7 @@ Clone repository
 git clone https://github.com/yourusername/secure-os-image-docs.git
 ```
 
+> This architecture is optimized for security.
+>
+> The image has been scanned using Trivy.
 {: .note }
-This architecture is optimized for security.
