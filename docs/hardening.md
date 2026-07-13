@@ -22,3 +22,4 @@ Example configuration
 ```bash
 PermitRootLogin no
 PasswordAuthentication no
+```
