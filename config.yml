@@ -1,0 +1,16 @@
+title: Secure OS Image Documentation
+description: Documentation for a Vulnerability-Free Secure OS Image
+
+theme: just-the-docs
+
+url: ""
+
+search_enabled: true
+
+color_scheme: light
+
+nav_sort: case_sensitive
+
+aux_links:
+  GitHub Repository:
+    - 
