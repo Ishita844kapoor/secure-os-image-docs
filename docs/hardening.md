@@ -1,5 +1,7 @@
 ````markdown
+
 ---
+layout: default
 title: Security Hardening
 nav_order: 3
 ---
