@@ -10,3 +10,4 @@ Clone repository
 
 ```bash
 git clone https://github.com/yourusername/secure-os-image-docs.git
+```
